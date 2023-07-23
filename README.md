@@ -1,1 +1,2 @@
-my first readme
+# My first readme
+Hello everyone I'm just testing now so don't worry...
